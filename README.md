@@ -1,5 +1,5 @@
-#PORTFÓLIO
-Olá, Bem vindo ao meu projeto de portfólio.
+
+Olá, Bem vindo ao meu projeto do desafio do Amigo Secreto.
 
 
 ## Ferramentas utilizadas:
@@ -7,7 +7,7 @@ Olá, Bem vindo ao meu projeto de portfólio.
 * HTML
 
 * JavaScript
-* 
+
 ## Feito por:
 
 ### Cean Costa
